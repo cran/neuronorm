@@ -1,8 +1,9 @@
-75bd2e273bf6c3ea5939f4b626c862f0 *DESCRIPTION
+8bb25387f2903f6937430627ca752c8e *DESCRIPTION
 da751df0d69b0d869cd3959a35d2f2e7 *NAMESPACE
 d40a043fb1e570c907b2f17c5c53f239 *R/load.R
-068e23ea1b65907a5356760e990ac5ef *R/preprocessing.R
+a6175dcb2f9985dcb156f34ef2eea4d9 *R/preprocessing.R
 d9bb2df5a7a7c1f36b9fa0679c142995 *R/utils.R
+5dbd008aa7df434adb4a50fe18ecfb65 *README.md
 e5d4d4ff550cb627d4cc8eb7cb6a48ec *build/vignette.rds
 92e0fffcef4ab5aa69bd7aa93e9469d4 *inst/doc/neuronorm.R
 35c410f2d2909853af173ff3a861098c *inst/doc/neuronorm.Rmd

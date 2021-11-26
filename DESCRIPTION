@@ -1,7 +1,7 @@
 Package: neuronorm
 Title: Preprocessing of Structural MRI for Multiple Neurodegenerative
         Diseases
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(person(given = "David", family = "Payares", email = "davidpayaresg@gmail.com", role = c("aut", "cre")), 
             person(given = "Jorge", family = "Mateu", email = "mateu@mat.uji.es", role = "ctb"),
             person(given = "Wiebke",family = "Schick",email = "schickw@uni-muenster.com", role = "ctb"),
@@ -24,8 +24,8 @@ Authors@R: c(person(given = "David", family = "Payares", email = "davidpayaresg@
            )
 Maintainer: David Payares <davidpayaresg@gmail.com>
 Imports: knitr, oro.nifti, fslr, neurobase, stats
-Suggests: rmarkdown, ANTsR, ANTsRCore, ITKR, extrantsr, MNITemplate,
-        RAVEL, neurodata
+Suggests: rmarkdown, ANTsR, ITKR, extrantsr, MNITemplate, RAVEL,
+        neurodata
 Depends: R (>= 3.5)
 Additional_repositories: https://davidpayares.github.io/drat
 Description: Preprocessing pipeline for normalizing and cleaning T1-weighted, T2-weighted and FLAIR MRI images coming from different sources, diseases, patients, scanners and sites.
@@ -36,7 +36,7 @@ RoxygenNote: 7.1.1
 VignetteBuilder: knitr
 OS_type: unix
 NeedsCompilation: no
-Packaged: 2021-07-19 11:10:53 UTC; davidpayares
+Packaged: 2021-11-23 11:48:46 UTC; davidpayares
 Author: David Payares [aut, cre],
   Jorge Mateu [ctb],
   Wiebke Schick [ctb],
@@ -57,4 +57,4 @@ Author: David Payares [aut, cre],
   J. Michae Brady [cph],
   Stephen Smith [cph]
 Repository: CRAN
-Date/Publication: 2021-07-20 07:30:02 UTC
+Date/Publication: 2021-11-26 13:10:02 UTC
